@@ -31,6 +31,7 @@
 
 <br>Use the terminal to move to the folder with the .txt file<br/>
 <img src= "https://imgur.com/cgSeiMq.png" height="80%" width="80%"/>
+<br>List files<br/>
 <img src= "https://imgur.com/oOGBQB0.png" height="80%" width="80%"/>
 <br/>
 
